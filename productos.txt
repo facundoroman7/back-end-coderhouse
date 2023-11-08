@@ -1,0 +1,1 @@
+[{"id":3,"title":"Producto c","description":"Descripción c","price":155.39,"thumbnail":"thumbnailc.jpg","code":"RET567","stock":25},{"title":"Producto A","description":"Descripción A","price":21.99,"thumbnail":"thumbnail1.jpg","code":"Atf321","stock":13,"id":1}]
