@@ -1,5 +1,5 @@
 import Express from "express";
-import ProductoManager from "./components/ProductoManejer.js";
+import ProductoManager from "./desafios/ProductoManejer.js";
 
 const app = Express();
 
